@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sbykoderova/react-todo/static/css/main.1a30e8cc.css",
+    "main.js": "/sbykoderova/react-todo/static/js/main.97879e95.js",
+    "index.html": "/sbykoderova/react-todo/index.html",
+    "main.1a30e8cc.css.map": "/sbykoderova/react-todo/static/css/main.1a30e8cc.css.map",
+    "main.97879e95.js.map": "/sbykoderova/react-todo/static/js/main.97879e95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a30e8cc.css",
+    "static/js/main.97879e95.js"
+  ]
+}
